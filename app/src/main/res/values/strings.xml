@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ecomm Login</string>
+    <string name="kendrick">Kendrick</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
